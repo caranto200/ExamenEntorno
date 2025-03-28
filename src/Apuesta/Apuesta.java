@@ -9,6 +9,7 @@ package Apuesta;
  */
 public class Apuesta {
 
+    protected int examen;
     /** Cantidad de dinero disponible  */
     private int dinero_disp;
 
